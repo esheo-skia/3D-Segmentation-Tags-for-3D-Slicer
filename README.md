@@ -65,10 +65,7 @@ You can run the script in **two ways**:
 
 ### **Option B — Run from a `.py` file**
 
-Save the script locally, e.g.:
-```python
-C:\path\to\tag_control.py
-```
+Save the script locally, e.g.: `C:\path\to\tag_control.py`
 
 Run this in the Slicer Python console:
 ```python
@@ -123,7 +120,7 @@ or simply re-run the script.
 
 ## File Structure (Suggested)
 
-```python
+```text
 3d-tags/
 │
 ├─ tag_control.py
@@ -162,4 +159,5 @@ See the `LICENSE` file for full details.
 
 **Eunseo Heo (esheo-skia)**  
 Contact: **heunseo1787@gmail.com**  
-GitHub: https://github.com/esheo-skia
+GitHub: **https://github.com/esheo-skia**
+
