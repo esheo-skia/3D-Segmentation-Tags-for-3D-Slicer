@@ -157,7 +157,9 @@ See the `LICENSE` file for full details.
 
 ## Author
 
-**Eunseo Heo (esheo-skia)**  
-Contact: **heunseo1787@gmail.com**  
-GitHub: **https://github.com/esheo-skia**
+**Eunseo Heo (esheo-skia)**<br>
+*Software Developer — Imaging Tools & Automation*
+
+* **Contact:** [heunseo1787@gmail.com]
+* **GitHub:** [https://github.com/esheo-skia]
 
